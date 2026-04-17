@@ -44,7 +44,7 @@ source("~/Method/reghorseshoe.R")
 source("~/Method/softbart.R")
 source("~/Method/bkmr.R")
 source("~/Method/bas.R")
-source("~/rhwqs.R")
+source("~/Method/rhwqs.R")
 
 
 ################################################################################
